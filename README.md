@@ -12,7 +12,7 @@ $ pip3 install pillow
 
 => clone the repositary by following command 
 
-$ git clone https://github.com/rps
+$ git clone https://github.com/garuda0py/rps
 
 => then open the directory 
 
